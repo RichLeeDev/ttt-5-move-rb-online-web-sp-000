@@ -12,8 +12,8 @@ end
 
 
 def input_to_index(user_input)
- binding.pry
-  # num = user_input.to_i - 1
+# binding.pry
+num = user_input.to_i - 1
 end
 
 def move(board_array,user_input1,character = "X")
